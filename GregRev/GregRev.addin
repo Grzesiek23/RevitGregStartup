@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <AddInId>A21DA7DB-68C2-4DBC-B542-D51A50392D84</AddInId>
+    <Name>GregRev</Name>
+    <Assembly>PATH_TO_DLL\GregRev.dll</Assembly>
+    <FullClassName>GregRev.Init</FullClassName>
+    <VendorId>Grzegorz Paśko</VendorId>
+    <VendorDescription>www.pasko.dev</VendorDescription>
+  </AddIn>
+</RevitAddIns>
